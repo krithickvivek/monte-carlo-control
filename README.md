@@ -73,11 +73,12 @@ def mc_control(env,
 ```
 
 ## OUTPUT:
-### Name:
-### Register Number:
+### Name: Krithick Vivekananda
+### Register Number: 212223240075
 
-Mention the Action value function, optimal value function, optimal policy, and success rate for the optimal policy.
+<img width="796" height="514" alt="image" src="https://github.com/user-attachments/assets/eb28c77f-523a-4a6c-bc8f-aaf4a690d92a" />
+
 
 ## RESULT:
 
-Write your result here
+The Monte Carlo Control algorithm successfully estimated the optimal action-value function and derived the optimal policy. The learned policy achieved a high success rate, confirming effective convergence and performance.
